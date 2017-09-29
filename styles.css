@@ -1,0 +1,26 @@
+NAV LI { display: inline-block;
+	border: 30 px solid black;
+	padding: 20 px;
+	margin: 30 px;
+	background: red}
+
+
+h1{color:red;
+font-size: 250%;
+font weight: bold;
+color: navy}
+
+	body {background: lightblue;
+	color: darkgray;
+	font-size:14pt; 
+	font-family: 'Roboto Slab', serif}
+	
+	<div class="picture">
+		<img src="Maine pic.jpg">
+	</div>
+	
+
+	
+	
+	
+	
